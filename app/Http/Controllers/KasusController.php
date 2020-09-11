@@ -19,7 +19,7 @@ class KasusController extends Controller
         ->join('fungsional','kasus.fungsional_id', '=', 'fungsional.id')
         ->join('pengguna','kasus.timTracing_id', '=', 'pengguna.id')
         ->join('kriteria','kasus.kriteria_akhir_id', '=', 'kriteria.id')
-        ->leftJoin( \DB::raw("(select kasus_id, MAX(tanggal) maxDate from laporanHarian lh group by kasus_id) as md"), 'kasus.id', '=', 'md.kasus_id')
+        ->leftJoin( \DB::raw("(select kasus_id, MAX(tanggal) maxDate from laporanharian lh group by kasus_id) as md"), 'kasus.id', '=', 'md.kasus_id')
         ->orderBy('kasus.status_selesai', 'DESC')
         ->orderBy('md.maxdate', 'DESC')
         ->get();
