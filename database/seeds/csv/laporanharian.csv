@@ -1,0 +1,524 @@
+"id","tanggal","kasus_id","kriteria_id","suhu","catatan_its","catatan_eksternal","gejala","keterangan","pemantau_id"
+"1","2020-06-04 08:35:00","17","12",NULL,"-","-","-","sementara isolasi mandiri hingga 10 hr jika negatif maka akan dilakukan operasi patah tulang nya","9"
+"2","2020-06-09 11:38:00","17","12",NULL,"mungkin menginformasikan keluarga nya butuh pasokan konsumsi pak, karena pak wahononya juga sdh sepuh","-","-","Utk ibu Yuda perumdos B 6, keadaan stabil dan sehat, tapi keadaan masih berbaring, mungkin menginformasikan keluarga nya butuh pasokan konsumsi pak, karena pak wahononya juga sdh sepuh","9"
+"3","2020-05-29 00:00:00","17","12",NULL,"-","-","-","status rapid positif, isolasi diri","9"
+"4","2020-06-09 09:30:00","17","12",NULL,"-","belum ada monitor oleh puskesmas termasuk membutuhkan konsumsi, beliau tinggal dengan suami, anak dan mantu beserta 1 anak, saat ini belum ada yg di tes rapid maupun swab","-","Status covid: tes rapid positif, tertanggal 2 Juni 2020.  Penanganan yang sudah dilakukan: isolasi mandiri 14 hari.  Hasil tracing selama 14 hari yang lalu: keadaan baik dan sehat, tanpa mendapatkan obat, dan ada rencana operasi frak. Colum femoralis sinistra jika hasil rapid tes ulang negatif. Tindak lanjut untuk unit ybs: pemenuhan kebutuhan sehari hari. Catatan tambahan: saat ini tinggal dengan istri, anak dan suaminya dan anak 1. Status : OTG positif rapid","9"
+"5","2020-06-09 15:30:00","17","12",NULL,"tidak perlu karena tidak aktif di lingkungan kerja ITS.","belum ada monitor oleh puskesmas termasuk membutuhkan konsumsi, beliau tinggal dengan suami, anak dan mantu beserta 1 anak, saat ini belum ada yg di tes rapid maupun swab","-","Status covid: tes rapid positif, tertanggal 2 Juni 2020. Penanganan yang sudah dilakukan: isolasi mandiri 14 hari. Hasil tracing selama 14 hari yang lalu: keadaan baik dan sehat, tanpa mendapatkan obat, dan ada rencana operasi frak. Colum femoralis sinistra jika hasil rapid tes ulang negatif. Catatan tambahan: saat ini tinggal dengan istri, anak dan suaminya dan anak 1
+Status : OTG positif rapid","9"
+"6","2020-06-12 20:30:00","17","13",NULL,,"isolasi mandiri",,"Status covid: tes swab negatif dilakukan tgl 8 Juni 2020 ( tes swab mandiri di RS PREMIER ) sebelumnya tes swab dengan hasil reaktif pada tgl 2 Juni 2020. Penanganan yang sudah dilakukan: tes swab dengan hasil negatif. Hasil tracing selama 14 hari yang lalu: isolasi mandiri. Tindak lanjut untuk unit ybs: ada persiapan untuk Operasi patah tulang leher paha. Catatan tambahan: Rencana operasi patah tulang leher paha di RS Manyar medical centre.","9"
+"7","2020-07-12 10:20:00","17","12",NULL,"Lisa Wahyunigsih (putri Pak Wahono dan Bu Yudha)",,,"Bapak, dari pihak keluarga keberatan utk diantar dengan ambulan, rencananya besok mbak lisa ambil hasil di RSKI jam 7 pagi, lalu jam 9 pagi disarankan oleh pkm dilakukan tes rapid mbak lisa dan suami serta 2 anaknya, dan sorenya jam 2-3 antar bu yuda ke RS ( yg antar pak wahono dan suami mbak lisa) semuanya tidak berkenan diantar oleh kami","9"
+"8","2020-06-30 14:22:00","7","12",NULL,"Sandhy, dewi saroh, angga (biologi): tdk ada gejala",,,,"10"
+"9","2020-07-11 18:15:00","7","8",NULL,"mas sandhy positif tp kondisi bdn sehat",,,,"5"
+"10","2020-06-03 11:38:00","19","9",NULL,"Ada 1 mahasiswa Teknik Elektro yg positit menurut tes swab. 
+Mhn petunjuk bagaimana langkah selanjutnya.Mhn dibantu tim data dan tim medcen mengawal njih... sdh sy laporkan ke bu fitri satgas jatim krn ktp non surabaya.",,,"posisi sekarang di RS PHC","5"
+"11","2020-06-09 11:36:00","19","9",NULL,"Utk Rifqi saat ini masih dihotel utk tes swab kedua masih belum dilakukan, kondisi stabil dan Alhamdulillah sehat...",,,,"9"
+"12","2020-06-09 21:02:00","19","9",NULL,,"monitor oleh Pemkot",,"Status covid: tes swab positif. Penanganan yang sudah dilakukan: isolasi oleh Pemkot di hotel Harris 14 hari. Hasil tracing selama 14 hari yang lalu: rencana hari ini dilakukan tes swab ulang. Tindak lanjut untuk unit ybs: pemenuhan sudah dari pemkot. Catatan tambahan: Status : OTG positif swab","9"
+"13","2020-06-22 00:00:00","19","10",NULL,"pulang ke rumah jaga kondisi dan isolasi mandiri",,,"Status covid: sembuh (tes swab positif 2x, tes swab 2x terakhir negatif). Penanganan yang sudah dilakukan: isolasi oleh Pemkot di hotel Harris 14 hari. Hasil tracing selama 14 hari yang lalu: tes swab telah dilakukan sebanyak 4 kali. Catatan tambahan: Sembuh","9"
+"14","2020-05-09 18:56:00","18","9",NULL,"Pak Dosen Sipil ada yg positif Covid19 tinggal di Keputih gang makam. Saat ini isolasi di RS Premier. Keluarga isolasi di rumah. Istri sdh diswab tp belum keluar hasil.",,,"Sdh diruang isolasi khusus mulai td malam dipindah kesitu, masuk Premiere tgl 7 di swap 2x tgl 8 keluar hasilnya..positif..demikian info dari bu Mustain. Riwayat tdk bepergian tapi masihbsholat jumat di masjid..demikian yg bisa sy info pak","5"
+"15","2020-05-10 10:37:00","18","9",NULL,"Bbrp kesimpulan setelah diskusi dgn kalab yg berkoordinasi dgn bu mustain: 
+1. Posisi saat ini swab bu mustain sdh keluar dan positif;  2. Ada 5 anak yg akan dites besok; 3. Tgl 6 mei: 1 laboran ke rumah pak mustain; 4. Tgl 6 mei: laboran ke lab u/piket jaga; 5. Tlg 30 april: 1 org tenaga proyek mengambil berkas ke pak mustain dan ke lab; 6. Laboran tsb di lab hanya ketemu 1 org tenaga proyek. Tdk bertemu laboran lainnya; 7. Posisi saat ini pak mustain di RS Premier; 8. Biaya pemeriksaan dan perawatan di tanggung mandiri; 9. Warga sekitar sdh membentuk tim membantu kehidupan keluarga selama masa isolasi.",,,"KTP sidoarjo. Ada riwayat jantung dan darah tinggi","5"
+"16","2020-05-13 00:00:00","18","9",NULL,"1. bu mustain positif;
+2. selasa 12 Mei, 5 anak beliau di tes rapid, hasilnya 2 reaktif, 3 negatif",,,,"5"
+"17","2020-05-17 00:00:00","18","10",NULL,"Alhamdulillah utk pak Mustain sdh dirumah, sejak 17 Mei, semua keluarganya Alhamdulillah negatif",,,,"5"
+"18","2020-05-09 00:00:00","32","9",NULL,"PCR tgl 6 Mei. 1 positif dan 6 negatif. Bsk akan diinfokan k ybs hasilnya. Insya allah, td sy sdh kirim no telp ortu sally ke dinkes surabaya. Sy minta ortunya dihub dulu sebelum besok. 6 lainnya boleh pulang. Sally akan di inapkan di husada utama. ini data yg sally salah satu mhsw yg pulang dr chula (chulalongkorn university).",,,,"5"
+"19","2020-06-04 08:36:00","32","10",NULL,"Bs ditambahkan ke dalam data kita bahwa sally no 19 status skrg sdh kembali ke rumah dan statusnya negatif. Alhamdulillah..",,,,"5"
+"20","2020-06-09 15:30:00","1","8",NULL,"pemenuhan kebutuhan sehari hari","monitor oleh puskesmas keputih termasuk konsumsi, tetapi yg bersangkutan menolak karena merasa gak nyaman jika warga sekitar tahu, takut warga menjadi ketakutan",,"1. Status covid: tes swab positif, tertanggal 2 Juni 2020; 
+2. Penanganan yang sudah dilakukan: isolasi mandiri 14 hari;
+3. Hasil tracing selama 14 hari yang lalu: keadaan baik dan sehat, mendapatkan obat dari RSHU;
+6. Catatan tambahan: saat ini tinggal berdua dengan istri;
+Status : ODP positif swab","9"
+"21","2020-06-09 15:30:00","33","12",NULL,"rencana akan melakukan tes rapid sekeluarga. Tindak lanjut untuk unit ybs: tidak perlu karena tidak aktif di lingkungan kerja ITS.","belum ada",,"Status covid: belum melakukan tes rapid maupun swab; Hasil tracing selama 14 hari yang lalu: keadaan baik dan sehat; beliau bertetangga serta ada hubungan saudara dengan pak sukur. rencana akan melakukan tes rapid sekeluarga","5"
+"22","2020-06-15 09:59:00","1","8",NULL,,,,"Pak karyadi ke gelora pancasila dengan kendaraan pribadi diiringi ambulance (Ambulance dgn sopir dan perawat). Krn tdk bersedia naik ambulance.","10"
+"23","2020-06-17 13:53:00","1","8",NULL,"Ass wrwb.
+Bpk, hasil swab ulang kemarin Senin 15 Juni 20, sdh terbit dan sdh diinfokan kesaya.
+
+ALHAMDULILLAH hasilnya NEGATIF.
+
+Tapi saya masih harus swab ulang ke 2 seminggu lagi.
+Selama itu tetap msh hrs stay at home, sesuai protokolnya.
+
+Trm ksh bpk, atas perhatiannya, bantuan dan doa2nya.
+
+Semoga balasan berlipat dari Allah SWT... aamiin yra.",,,,"5"
+"24","2020-06-30 14:01:00","1","10",NULL,"29/06: Pak Karyadi hsl swab ke 2 : Negatif",,,,"10"
+"25","2020-06-30 14:01:00","33","12",NULL,"22/6 Bu Karyadi hsl rapid tes Non Reaktif",,,,"10"
+"26","2020-07-04 16:47:00","11","12",NULL,"meniko ada satu tendik yg dari hasil rapidnya reaktif, diinfo bu Machmudah, arahan dr dinkes jatim diminta ke puskesmas utk periksa agar dijadwalkan swab.",,,,"6"
+"27","2020-07-09 18:33:00","11","12",NULL,"Pak sunawi ini rapid tes hari sabtu hasil reaktif. Hr rabu rapid tes lagi dan hasilnya reaktif lagi. Mohon utk ditindaklanjuti.
+Matur nuwun.",,,,"5"
+"28","2020-07-10 09:19:00","11","12",NULL,"Pak Sunawi kondisi phisik stabil, tapi kondisi kejiwaannya kurang stabil, istri dan anak tidak bersedia dilakukan tes karena takut reaktif, rencana tes swab belum bisa, masih menanyakan harganya, jika dari puskesmas tidak bersedia",,,,"9"
+"29","2020-06-17 15:40:00","12","12",NULL,"laboran, rapid test negatif. Hasil swab blm keluar. Istri mas maskuri kerja di klinik. data istrinya yang positif",,,,"6"
+"30","2020-06-17 17:46:00","12","12",NULL,"rapid test negatif . Tindak lanjut unit yang bersangkutan : Suport pemeriksaan dan suplement makan beserta APD","Semua keluarga diminta melakukan rapid test di BIN tapi kami melakukan test rapid mandiri sekeluarga dapat Reagen dari Klinik Sier dan hasil dari pemeriksaan kami laporkan ke pihak puskesmas dan Klinik Sier",,"Penanganan : Isolasi Mandiri, konsumsi multivitamin, herbal dan makanan bergizi guna meningkatkan daya tahan tubuh dan mempercepat pemulihan; Hasil Tracing 14 hari : kontak dengan istri yang status konfirmasi di klinik Sier surabaya akhirnya seluruh keluarga dilakukan rapid test dan swab test","5"
+"31","2020-06-17 17:53:00","13","8",NULL,"Penanganan : Isolasi Mandiri, konsumsi multivitamin, herbal dan makanan bergizi guna meningkatkan daya tahan tubuh dan mempercepat pemulihan;
+Hasil Tracing 14 hari : kontak dengan pasien konfirmasi di klinik Sier surabaya akhirnya seluruh karyawan dilakukan rapid test dan swab test;
+Tindak lanjut unit yang bersangkutan : Suport pemeriksaan dan suplement makan beserta APD","ditelpon oleh pihak puskesmas setempat setelah mendapatkan laporan hasil dari RS PHC, diminta melakukan isolasi mandiri dan setiap hari ditelpon tentang kondisi pasien, ditawari kiriman makanan juga selama isolasi mandiri",,"kerja di klinik sier","6"
+"32","2020-06-20 21:22:00","13","10",NULL,"dr bu kadep biologi: Assallamu'alaikum wrwb Pak adji menyampaikan kabar baik..Hasil swab test Maskuri sekeluarga semua negatif. istri masih tahap penyembuhan.",,,,"5"
+"33","2020-06-20 21:22:00","12","12",NULL,"dr bu kadep biologi: Assallamu'alaikum wrwb Pak adji menyampaikan kabar baik..Hasil swab test Maskuri sekeluarga semua negatif. istri masih tahap penyembuhan.",,,,"5"
+"34","2020-06-30 14:06:00","12","12",NULL,"Pak Maskuri + anak2+ ortu hsl swab negatif
+
+Istri pak Maskuri msh positif ( 2x swab)
+Sedang menunggu hsl swab ketiga",,,,"10"
+"35","2020-06-30 14:06:00","13","8",NULL,"Istri pak Maskuri msh positif ( 2x swab)
+Sedang menunggu hsl swab ketiga",,,,"10"
+"36","2020-06-12 09:41:00","2","2",NULL,"Erma skrg msh di RS mitra. Info dr suaminya (fajar BPP PWK) bahwa tes rapid non reaktif tp rontsen menunjukkan flek2 gejala covid.",,,,"5"
+"37","2020-06-12 10:00:00","2","9",NULL,"Status covid: PDP positif swab; 
+Penanganan yang sudah dilakukan: rawat inap di RS MITRA KELUARGA sudah 12 hari saat ini masih opname, di isolasi di RS serta sdh mendapatkan terapi obat dari RS; 
+Hasil tracing selama 14 hari yang lalu: terakhir bulan april aktif dikampus. suaminya pak Fajar BPP PWK sedang diverifikasi.;
+Tindak lanjut untuk unit ybs: kondisi psikologis nya kurang baik, diharapkan mendapatkan bimbingan psikologi dari psikiatri ato psikolog",,,"mohon support utk psikologis nya yang bersangkutan","9"
+"38","2020-06-12 08:59:00","34","12",NULL,"Asslmkm 
+Bu Ema kemarin saya ikut tes yg rapid tes, hasilnya reaktif, cuman dari tes swab masih nunggu, dan ketika hasilnya reaktiv saya langsung di karantina. Saat ini saya di karantina di hotel pop.",,,,"5"
+"39","2020-06-12 10:00:00","34","12",NULL,"Status covid: OTG Reaktif;
+Penanganan yang sudah dilakukan: isolasi di hotel pop sekarang hari ke 2;
+Hasil tracing selama 14 hari yang lalu: tes rapid di PKM tg 10 Juni 2020, dan dinyatakan Reaktif. ; 
+Tindak lanjut untuk unit ybs: isolasi oleh Pemkot di hotel pop Surabaya. Area PWK akan disterilisasi siang ini.","sudah dilaporkan.",,"mohon support utk psikologis nya juga","9"
+"40","2020-06-13 19:24:00","34","12",NULL,"Hasil swab pak fajar BPP PWK negatif.",,,,"5"
+"41","2020-06-14 10:00:00","34","12",NULL,"Status covid: SWAB negatif;
+Penanganan yang sudah dilakukan: sudah melaksanakan isolasi di hotel pop dan sekarang isolasi mandiri.;
+Hasil tracing selama 14 hari yang lalu: ada interaksi dengan BPP dan wadek FTSPK.;
+Tindak lanjut untuk unitnya di ITS: area PWK sudah disterilisasi, sudah berkomunikasi dengan Dekan dan WR2 meminta BPP dan wadek FTSPK isolasi mandiri.;","sudah dilaporkan",,"mohon support utk psikologis nya juga","5"
+"42","2020-06-12 10:15:00","3","12",NULL,"Status covid: rapid tes positif;
+Penanganan yang sudah dilakukan: rapid tes dan swab msh menunggu hasil dilakukan di RS HAJI tgl 5 dan 6 Juni, perkiraan 12 hari;
+Hasil tracing selama 14 hari yang lalu: tgl 2 juni halal bihalal di dktsi dan ke kantor di robotika, terpapar nya pada waktu tes rapid tg 4 juni;
+Tindak lanjut untuk unit ybs:isolasi mandiri, Robotika akan disterilisasi siang ini;","karena istri kerja di RS HAJI (milik Pemprov) jadi tidak ada pelaporan ke RT dan RW","demam","Anak dari pak Bakri...sblm dan waktu lebaran demam  dan di rawat di rmh pak bakri.;
+untuk ke 2 anaknya tidak dilakukan tes rapid dg alasan kasihan jika dilukai.","10"
+"43","2020-06-19 11:00:00","3","8",NULL,"Hasil swab positif",,,,"10"
+"44","2020-06-30 14:14:00","3","8",NULL,"Ludfy Kristianto masih menunggu hsl swab (25 & 26 Juni)",,,,"10"
+"45","2020-06-12 10:15:00","35","12",NULL,"Status covid: OTG rapid tes reaktif;
+Penanganan yang sudah dilakukan: rapid tes dan swab msh menunggu hasil dilakukan di RS HAJI tgl 5 dan 6 Juni, perkiraan 12 hari;
+Hasil tracing selama 14 hari yang lalu: tgl 2 juni melakukan tes rapid di tempat kerja RS HAJI dan beliau kerja di bagian ruang ICU RS HAJI;
+Tindak lanjut untuk unit ybs: isolasi mandiri","Belum ada pelaporan ke RT dan RW tapi sdh tercatat di pemprov",,"untuk ke 2 anaknya tidak dilakukan tes rapid dg alasan kasihan jika dilukai","5"
+"46","2020-06-12 11:00:00","35","12",NULL,"Status covid: OTG rapid tes reaktif;
+Penanganan yang sudah dilakukan: rapid tes dan swab msh menunggu hasil dilakukan di RS HAJI tgl 5 dan 6 Juni, perkiraan 12 hari;
+Hasil tracing selama 14 hari yang lalu: tgl 2 juni melakukan tes rapid di tempat kerja RS HAJI dan beliau kerja di bagian ruang ICU RS HAJI;
+Tindak lanjut untuk unit ybs: tidak ada","isolasi mandiri, Belum ada pelaporan ke RT dan RW tapi sdh tercatat di pemprov.",,"untuk ke 2 anaknya tidak dilakukan tes rapid dg alasan kasihan jika dilukai","5"
+"47","2020-06-19 11:33:00","35","12",NULL,"Tanggal 2 Juni halbil  Dikst di ged pasca sarjana kmd mampir ke robotika dan ke rumah P Bakri (perumdos)",,"Pak Anto & bu Dewi(istri) serta anak2 sempat demam di antara waktu sebelum dan  waktu lebaran. Pak Anto & anak2 selama demam di rawat di rmh ortunya di perumdos U 91. (P. Bakri)
+Setelah itu tdk ada gejala apapun sampai hari ini.","Rapid tes tgl 4 juni + 3 juni hsl reaktif
+Swab suami : 5 & 6 juni
+Swab istri 4 & 5 juni","10"
+"48","2020-06-19 12:18:00","35","13",NULL,"Hasil Rapid Pak Anto 4 Juni rekatif dan Isteri 3 Juni reaktif, anak?
+Hasil Swab Pak Anto (5 dan 6 Juni) positif dan isteri (4 dan 5 Juni) negatif, anak?
+Riwayat tertular: belum diketahui
+Riwayat perjalanan: 2 Juni Halal bihalal di Pasca, lalu ke Robotika dan ke rumah Pak Bakri",,"Sekitar hari lebaran seluruh keluarga demam",,"7"
+"49","2020-06-19 12:25:00","36","12",NULL,,,"demam; batuk; sesak nafas","Tgl 2 juni ada halbil di dikst ... bbrp hari kemudian mas anto dinyatakan reaktif dan tyt swab positif. Sejak halbil sdh tdk aktif lagi di robotika. Ada salah satu stafg dikst yg mengalami gejala covid19, mbak Ida, demam,batuk dan sesak nafas. Sejak halbil memamg sdh tdk pernah ke kampus lagi. Yg bersangkutan rapid test negatif, namun oleh rs diminta opname di rs bhd. Jadi status mbak ida saat ini masih opname dan menunggu hasil swab yg masih 1-2 minggu lagi. Kondisi sudah membaik...namun belum diijinkan keluar rs.","11"
+"50","2020-06-19 16:00:00","36","12",NULL,"Status covid: Masih menunggu swab yg dilakukan tgl 14 Juni 2020, masuk RS Terindikasi alergi obat Cefixime;
+Penanganan yang sudah dilakukan: perawatan alerginya dan gejala yg muncul (batuk dan sesak), sdh dilakukan foto thorax dg hasil clear/bersih, sementara opname di RS BDH Sambil menunggu hasil swab; 
+Hasil tracing selama 14 hari yang lalu: opname di RS",,,"Beliau diindikasikan alergi dg obat Cefixime, suami dan anak serta ibu beliau di rumah dalam keadaan sehat walafiat, beliau mengharapkan ada pendampingan psikologi, karena takut terkena covid 19","9"
+"51","2020-06-25 11:00:00","36","13",NULL,"Status covid: swab negatif tertanda tgl 19 dan tes kembali tgl 20, tinggal menunggu hasil yg kedua, masuk RS;
+Penanganan yang sudah dilakukan: perawatan alerginya dan gejala yg muncul (batuk dan sesak), sdh dilakukan foto thorax dg hasil clear/bersih, sementara opname di RS BDH, kondisi sudah banyak kemajuan;
+Hasil tracing selama 14 hari yang lalu: opname di RS;",,"Terindikasi alergi obat Cefixime","Beliau saat ini inshaallah dalam kondisi yg stabil dan keadaan sehat walafiat, saat ini tinggal menunggu hasil swab yg kedua, inshaallah hari ini ato besok hasil selesai","9"
+"52","2020-06-27 14:10:00","4","8",NULL,,,"Suami istri ...p cholil dan bu dewi. Sakit sejak 23 juni dan swab positif, skrg isolasi mandiri. Anak 2 sudah diungsikan,swab negatif. kemarin swab test karena Pak Holil merasa badan gak enak dan hasil tes gula darah nya naik (*beliau ada riwaayat sakit gula)","Sehubungan dengan adanya 2 warga kita yang positip covid 19, ( Pak Cholil & Ibu blok T-68), dan beliau telah melakukan isolasi mandiri di rumahnya. Kami dari Satgas akan melakukan protap Kampung Tangguh, yaitu mencegah terjadinya penyebaran covid 19 dengan melakukan penyemprotan desinfektan, blocking area dan memberikan bantuan pemenuhan kebutuhan sehari-hari. Oleh karena itu kami mohon warga memberikan dukungan kepada beliau berdua agar cepat sehat kembali.
+
+Untuk itu kami mohon warga bangkit kembali menjalin kebersamaan, saling bahu membahu utk mengatasi dan melakukan pencegahan terhadap penyebaran penyakit covid 19 di lingkungan RW kita.
+
+Kami akan melakukan saweran utk memenuhi kebutuhan beliau. Klu ada warga yg berkenan mau membantu bisa menghubungi Posko Kampung Tangguh di nomor HP saya : 08123248808.
+
+Atas peran serta warga dan bantuannya, kami sampaikan terima kasih.
+
+Ketua Satgas KT/RW-07
+Pitoyo YS","11"
+"53","2020-06-27 20:00:00","4","8",NULL,"Status covid: positif swab yg dilakukan tgl 23 Juni 2020. Istri (Dyah Suwiwi) juga sudah melakukan swab test dan hasil positif.; 
+Penanganan yang sudah dilakukan: melakukan isolasi mandiri di rumah. Sudah ditangani satgas RW.; 
+Hasil tracing selama 14 hari yang lalu: sedang dilakukan oleh Pak Dekan Electic Ketut Edi untuk tanggal 9-23 Juni 2020. Informasi sementara ybs tidak aktif di kampus semenjak WFH. Satgas RW juga sedang mentracing untuk interaksi ybs di perumdos.;",,,"Ybs bersedia diinformasikan kasusnya ke warga sekitar. Kampung jogo wani dibawah koordinasi Pak RW 7 telah menangani kebutuhan harian. Belum membutuhkan bantuan dari Satgas Covid-19 ITS.","5"
+"54","2020-07-11 08:08:00","4","10",NULL,"Pitoyo: Alhamdulillah, pak Holil dan Nyonya hasil swab-nya NEGATIP....!",,,"Menunggu SWAB negatif kedua agar bisa dinyatakan kasus selesai","3"
+"55","2020-07-11 13:17:00","7","8",NULL,"untuk mas Sandi biologi, hsl swab nya positif. swab 3 hr yg lalu. sjk 20 juni sdh isolasi mandiri di rmh,
+sy smpt contact istri mas sandi sesaat stlh pak Budi meninggal, waktu itu katanya di rmh, kamar dll sdh dipisah. ini blm sy contact lg.",,,,"6"
+"56","2020-06-27 14:10:00","5","8",NULL,,,"Suami istri ...p cholil dan bu dewi. Sakit sejak 23 juni dan swab positif, skrg isolasi mandiri. Anak 2 sudah diungsikan,swab negatif.","Sehubungan dengan adanya 2 warga kita yang positip covid 19, ( Pak Cholil & Ibu blok T-68), dan beliau telah melakukan isolasi mandiri di rumahnya. Kami dari Satgas akan melakukan protap Kampung Tangguh, yaitu mencegah terjadinya penyebaran covid 19 dengan melakukan penyemprotan desinfektan, blocking area dan memberikan bantuan pemenuhan kebutuhan sehari-hari. Oleh karena itu kami mohon warga memberikan dukungan kepada beliau berdua agar cepat sehat kembali. Untuk itu kami mohon warga bangkit kembali menjalin kebersamaan, saling bahu membahu utk mengatasi dan melakukan pencegahan terhadap penyebaran penyakit covid 19 di lingkungan RW kita. Kami akan melakukan saweran utk memenuhi kebutuhan beliau. Klu ada warga yg berkenan mau membantu bisa menghubungi Posko Kampung Tangguh di nomor HP saya : 08123248808. Atas peran serta warga dan bantuannya, kami sampaikan terima kasih. Ketua Satgas KT/RW-07 Pitoyo YS","11"
+"57","2020-07-11 08:08:00","5","10",NULL,"Pitoyo: Alhamdulillah, pak Holil dan Nyonya hasil swab-nya NEGATIP....!",,,"Menunggu SWAB negatif kedua agar bisa dinyatakan kasus selesai","3"
+"58","2020-06-27 20:00:00","5","8",NULL,"Status covid: positif swab yg dilakukan tgl 23 Juni 2020. Istri (Dyah Suwiwi) juga sudah melakukan swab test dan hasil positif.; Penanganan yang sudah dilakukan: melakukan isolasi mandiri di rumah. Sudah ditangani satgas RW.; Hasil tracing selama 14 hari yang lalu: sedang dilakukan oleh Pak Dekan Electic Ketut Edi untuk tanggal 9-23 Juni 2020. Informasi sementara ybs tidak aktif di kampus semenjak WFH. Satgas RW juga sedang mentracing untuk interaksi ybs di perumdos.;",,,"Ybs bersedia diinformasikan kasusnya ke warga sekitar. Kampung jogo wani dibawah koordinasi Pak RW 7 telah menangani kebutuhan harian. Belum membutuhkan bantuan dari Satgas Covid-19 ITS.","5"
+"59","2020-06-30 14:16:00","6","12",NULL,"Pak Irfan Arifin (dept biologi)
+22/6 rapid tes reaktif
+24& 25/6 melakukan swab",,,,"10"
+"60","2020-06-30 14:30:00","6","8",NULL,"Status covid: rapid tes  reaktif;
+Penanganan yang sudah dilakukan: melaksanakan isolasi mandiri.;
+Dilakukan rapid tes ;
+24& 25/6 tes swab di rs haji dan sdh pulang ke rumah;
+Hasil tracing selama 14 hari yang lalu: kontak dg pak budi  biologi",,"22/6 opname di RS haji dgn gejala tangan
+ gemetar dan kaki lemah , mnrt dokternya suspect stroke ringan","Beliau stress krn mengira sdh positif covid","10"
+"62","2020-06-30 23:00:00","6","8",NULL,"Penanganan yang sudah dilakukan: melaksanakan isolasi mandiri. ;
+22/6 opname di RS haji dgn gejala tangan gemetar dan kaki lemah , mnrt dokternya suspect stroke ringan; 
+Dilakukan rapid tes ;
+24& 25/6 tes swab di rs haji dan sdh pulang ke rumah;
+29/6 Hasil swab positif;
+Hasil tracing selama 14 hari yang lalu: kontak dg pak budi  biologi.;
+Tindak lanjut untuk unitnya di its : koordinasi dgn Pak Dekan FSAD dan Kadep Biologi. Pak Dekan akan meminta aktivitas didekanatnya full WFH dan kadep dan tim medcen akan mentracing. Pak Dekan akan meminta ijin Pak Rektor u/memfasilitasi rapid tes dan swab (jika diperlukan).;",,,"Beliau stress dengan penyakitnya.","5"
+"63","2020-07-10 06:19:00","6","8",NULL,"alhamdulillah kondisi pak irfan semakin baik dan sehat lahir bathin. Pak Irfan msh menunggu swab lg. Tp alhamdulillah scr psikis sdh lbh stabil.",,,,"6"
+"64","2020-06-08 11:56:00","21","12",NULL,"Selamat malam pak Adjie, saya meneruskan informasi dari pak Edy , kepala perpustakaan, bahwa pak Sukur (tendik perpus) dan pak Jumari (tendik T.Sipil) kemarin pagi dijemput tim satgas covid surabaya dan dikarantina, dan skrg sedang menunggu hasil swab. brsan sdh dpt kbr dr p.djumari,tp infonya  saudaranya itu kena paru2 dan tdk positif corona mskipun hsl tes covid19 baru keluar 2-3 hr lg,tp td saya mhn u.p.Jumari tinggal di rmh dl.",,,,"5"
+"65","2020-06-09 11:25:00","21","12",NULL,"Menginformasikan, kondisi pak sukur saat ini stabil dan baik, isolasi masih di hotel 88, utk pak Jumari dan keluarga keadaan baik tetapi ada rencana utk tes rapid seluruh keluarga...",,,,"9"
+"66","2020-06-09 20:20:00","21","1",NULL,"Status covid: tes rapid teaktif, tertanggal beliau lupa; 
+Penanganan yang sudah dilakukan: isolasi14 hari; 
+Hasil tracing selama 14 hari yang lalu: keadaan baik dan sehat; 
+Tindak lanjut untuk unit ybs: aTindak lanjut untuk unit ybs: tidak perlu karena tidak aktif di lingkungan kerja ITS.;
+Status : ODP reaktif","monitor oleh puskesmas",,"akan dilakukan tes ulang (rencana belum tahu)","9"
+"67","2020-06-15 10:00:00","21","12",NULL,"Status covid: OTG reaktif;
+Penanganan yang sudah dilakukan: melaksanakan isolasi di hotel 88; 
+Tindak lanjut untuk unitnya di ITS: isolasi mandiri.","sudah dilaporkan.",,"Saat ini menunggu hasil tes swab pada tgl 6, hasil belum ada.","9"
+"68","2020-06-15 11:00:00","21","12",NULL,"Status covid: OTG reaktif; 
+Penanganan yang sudah dilakukan: melaksanakan isolasi di hotel 88 dari hari selasa tgl 6 juni 2020), menunggu hasil swab sd hari ini belum ada hasil. ;
+Hasil tracing selama 14 hari yang lalu: selama WFH tidak pernah ke kantor.","sudah dilaporkan.",,"ybs tertutup sehingga data tidak banyak didapat. Sudah menghubungi Pak Edi, kepala perpus untuk meminta mengeksplorasi ybs.","5"
+"69","2020-06-18 10:00:00","21","9",NULL,"Status covid: OTG reaktif, Sekarang menjadi ODP Swab positf;
+Penanganan yang sudah dilakukan: awal melaksanakan isolasi di hotel 88 (dari hari selasa tgl 6 juni 2020), sekarang dipindahkan ke hotel asrama haji (tgl 15 Juni 2020) menunggu hasil swab 2 X lagi;
+Hasil tracing selama 14 hari yang lalu: selama WFH tidak pernah ke kantor","sudah dilaporkan. Isolasi di Hotel asrama haji",,"ybs tertutup sehingga data tidak banyak didapat. Data dimintakan dari DKK, Sudah menghubungi Pak Edi, kepala perpus untuk meminta mengeksplorasi ybs.","9"
+"70","2020-06-27 19:38:00","21","10",NULL,"Info dr pak kepala perpus terkait pak sukur... sdh negatif.",,,,"5"
+"71","2020-06-08 11:56:00","9","12",NULL,"Selamat malam pak Adjie, saya meneruskan informasi dari pak Edy , kepala perpustakaan, bahwa pak Sukur (tendik perpus) dan pak Jumari (tendik T.Sipil) kemarin pagi dijemput tim satgas covid surabaya dan dikarantina, dan skrg sedang menunggu hasil swab",,,,"5"
+"72","2020-06-09 11:00:00","9","12",NULL,"pak Jumari dan keluarga keadaan baik tetapi ada rencana utk tes rapid seluruh keluarga. Pak Jumari hari ini infonya kerja pak, info dari istri",,,,"9"
+"73","2020-06-15 12:29:00","9","12",NULL,"Bapak dan ibu.. Ada info yg kurang enak.. pak jumari tendik sipil keliatannya hari ini terlihat dikampus. Bs jadi tdk ke sipil. Kadep sipilnya sdh meminta isolasi mandiri 14 hari.",,,,"5"
+"74","2020-06-15 15:00:00","9","12",NULL,"Penanganan yang sudah dilakukan: diminta melakukan isolasi mandiri. Ada rencana tes rapid seluruh keluarga sejak tanggal 9 juni;
+Hasil tracing selama 14 hari yang lalu: informasi kadep sipil, tidak pernah ke sipil. Bbrp pihak melaporkan bertemu dikampus terakhir tgl 15 juni (hari ini).;",,,"ada informasi yang berbeda antara ybs dengan istri, ybs dengan beberapa tendik. Perlu meningkatkan kedisiplinan ybs.","5"
+"75","2020-06-15 16:23:00","9","12",NULL,"Pak Jumari tdk punya hp. Beliau kakak kandung p Sukur. Siang ini tdk dirumah (tdk tau kemana)
+Beliau tidak ada gejala. Kontak dg p Sukur terakhir pada waktu lebaran.",,,"Setelah sy tanya pak sukur...terakhir ketemu sekitar tgl 5 atau 6 itu menjelang tes....
+Berbeda dgn ket istri p jumari. pak Jumari gak ada nomor telepon, yg pegang nomer hp istrinya, jika ditelpon sekarang selalu mengatakan pak jumari ke luar rumah ( bukan kerja lagi ).","10"
+"77","2020-06-28 11:00:00","22","11",NULL,"Status covid: Meninggal akibat covid.;
+Penanganan yang sudah dilakukan: Masuk RS sejak hari Senin tgl 22 juni diopname hingga akhirnya meninggal dunia.;
+Hasil tracing selama 14 hari yang lalu: ybs tidak pernah ke kampus. ;
+Tindak lanjut untuk unitnya di ITS: Sedang dilakukan tracing pada civitas, akan dilakukan sterilisasi untuk lokasi-lokasi di kampus yang pernah ditempati oleh orang yang kontak erat sebagai follow up hasil tracing pada civitas.  Selama masa opname ditunggu isteri.",,"Meninggal dunia dengan hasil tes swab positif Akibat COVID-19. Diikuti dengan comorbid DHF dan dugaan thypus abdominalis Tanggal 28 Juni 2020 Pukul 07.05 di RSI Jemursari","Dengan status meninggal akibat covid, civitas direkomendasikan untuk menyampaikan doa dan dukungan lainnya sesuai protocol covid untuk jenazah covid.","8"
+"78","2020-06-21 19:46:00","23","5",NULL,"Status covid: Masih menunggu swab yg dilakukan tgl 20 Juni 2020, masuk RSI jemursari; 
+Penanganan yang sudah dilakukan: perawatan isolasi di ruang ICU RSI dan dengan gejala (batuk, demam dan sesak), sdh dilakukan foto thorax dg hasil gambaran menyerupai pneumonia sementara opname di RSI Sambil menunggu hasil swab dan isolasi;",,"Terindikasi adanya sesak dan di foto thorax didapatkan gambaran menyerupai pneumonia pada paru paru. tgl 11 di diagnosa thypus (hasil lab terlampir) tetapi hingga 3 kali pengobatan tidak mengalami kesembuhan dg datang ke *UGD RS HAJI*","keluarga beliau (istri dan 3 anak) rencana juga akan dilakukan tes swab.","9"
+"79","2020-06-25 12:00:00","23","9",NULL,"Status covid: positif swab yg dilakukan tgl 20 Juni 2020, masuk RSI jemursari Terindikasi adanya sesak dan di foto thorax didapatkan gambaran menyerupai pneumonia pada paru paru; 
+Penanganan yang sudah dilakukan: perawatan isolasi di ruang ICU RSI dan isolasi.;
+Hasil tracing selama 14 hari yang lalu: tgl 11 di diagnosa thypus (hasil lab terlampir) tetapi hingga 3 kali pengobatan tidak mengalami kesembuhan dg datang ke *UGD RS HAJI*",,,"istri akan melakukan tes swab dan 3 anak sudah tes swab tinggal menunggu hasil, keadaan beliau, saat ini sdh bisa minum tapi masih kesulitan untuk makan, keadaan lemah","9"
+"80","2020-06-25 12:00:00","23","9",NULL,"Status covid: positif swab yg dilakukan tgl 20 Juni 2020, masuk RSI jemursari Terindikasi adanya sesak dan di foto thorax didapatkan gambaran menyerupai pneumonia pada paru paru.;
+Penanganan yang sudah dilakukan: perawatan isolasi di ruang ICU RSI dan isolasi;
+Hasil tracing selama 14 hari yang lalu: tgl 11 di diagnosa thypus (hasil lab terlampir) tetapi hingga 3 kali pengobatan tidak mengalami kesembuhan dg datang ke UGD RS HAJI;
+Tindak lanjut untuk unitnya di ITS: Sedang di tracing oleh tim dan dibantu kadep biologi. Info awal masih 1 tendik yang berinteraksi dan diminta isolasi mandiri.",,,"istri akan melakukan tes swab dan 3 anak sudah tes swab tinggal menunggu hasil, keadaan beliau, saat ini sdh bisa minum tapi masih kesulitan untuk makan, keadaan lemah. Saat ini satgas RW 5 menangani anggota keluarganya dengan biaya urunan. Ada permohonan dari satgas RW5 terkait pembiayaan pemenuhan kebutuhan dan pembiayaan swab test pada anggota keluarganya.","5"
+"81","2020-06-30 10:04:00","23","9",NULL,"Kemarin perkembangan p budi alhamdulillah sdh bagus.. Tp td malam kambuh lagi sesaknya.
+[30/6 10:05] Ny Budi Gang 3: Untuk rapid tes sy alhamdulillah negative.
+[30/6 10:05] Ny Budi Gang 3: Untuk tes swab anak"" blm semua, nanti segera kami laporkan",,,,"5"
+"82","2020-06-30 12:47:00","23","9",NULL,"info. ini dua putri pak Budi positif, satu lagi belum keluar. tadi sudah koordinasi dg bu lurah, masih menunggu hasil diskusi beliau dg bu camat. 
+Pak RW sdh dalem info jg. maturnuwun",,,,"5"
+"83","2020-07-01 21:50:00","23","9",NULL,"Assalamualaikum, Ysh. Bapak2 dan Ibu2 pimpinan, bhw perkembangan Pak Budi Kasianto (Kasubag. Biologi) saat ini dlm kondisi kritis di ICU RSUA dan istrinya diminta sgr ke RS, mhn bantuan do'anya smg beliau sgr diberi kesembuhan dan sehat kembali.... Aamiin,  Alfatihah",,,,"11"
+"84","2020-07-06 19:52:00","23","11",NULL,"Innalillahi Wa Innaillaihi Rojiun...mas Budi Kasiyanto meninggal dunia, aemoga khusnul khatimah",,,,"11"
+"85","2020-07-04 17:03:00","24","11",NULL,"Innalillahi wa innailaihi rojiun, telah meninggal dunia mahasiswa kami dari Departemen PWK angkatan 2019 atas nama *Indy Alfi Jazillah*, sore hari ini di RSUD Bangil, Pasuruan.  Semoga almarhumah Indy husnul khatimah dan keluarga yang ditinggalkan diberi ketabahan. Aamiin YRA..",,,,"5"
+"86","2020-07-06 17:17:00","24","11",NULL,"[5/7 13.13] Kak Dini Smanba: Kronologinya indy pas ke kamar mandi itu jatuh dia sudah 2 kali jatuh. Yang terakhir jatuh itu dia langsung sesek, sama perawat dibawa ke igd, tapi dia nggak tertolong sudah an
+[5/7 14.04] Kak Dini Smanba: Sdh diswab,hasil swab keluar setelah alfi dinyatakan meninggal keluarga baru dikasih tau kalo alfi positif covid juga
+[5/7 15.17] Kak Dini Smanba: Selama ini yang tau riwayat pemeriksaane alfi itu umi dan tante yg perawat, tadi aku tanya tante ...hasil swab baru dikasih tau  ke keluarga waktu alfi dinyatakan meninggal krn jatuh dikamar mandi,katanya alfi positif covid juga,akhirnya dikubur dg protokol covid",,,,"5"
+"87","2020-07-06 18:48:00","25","5",NULL,,,,"Ini ada berita dr bpk2 di komplek ITS
+[7/6, 18:48] Doellatip, TE: Berita terakhir: P. Zaki & cucunya telah dipindah ke RSUA di Rg. VVIP, anak & cucu lainnya diisolasi dirumah, sekarang para Alumni di Perumdos sedang menghimpun bantuan  supply makanan dll untuk yg dirumah. Jelasnya P. Zaki kena Covid. Mohon doanya para alumni, semoga beliau mendapatkan obat dan perawatan yang dapat segera memulihkan kesehatannya. Amien YRA
+[7/6, 18:48] Doellatip, TE: Yang memindahkkan ke RSUA : Prof. Dr . Ir. M. Nuh.
+[7/6, 18:48] Doellatip, TE: Karena di RS Dr. Sutomo tdk ada kamar lagi","8"
+"88","2020-07-06 21:00:00","25","5",NULL,"Wa'alaykumussalam wr wb. Dari kabar yang saya terima, pak Zaki sudah test swab sejak pertama kali masuk Grha Amerta, tapi hasilnya belum keluar. Hasil rontgen Thorax menunjukkan ada gejala yang diduga COVID-19. Jadi, sampai siang tadi belum ada kabar apakah hasil tes swab/PCR-nya positif atau tidak",,,,"6"
+"89","2020-07-08 12:57:00","25","9",NULL,"Hasil swab prof Zaki : positif covid",,,,"10"
+"90","2020-07-08 13:00:00","25","9",NULL,"Status covid: positif covid; 
+Penanganan yang sudah dilakukan: Rapid tes reaktif tanggal 5 juli 2020, foto thorax seperti pneumonia. Swab test tanggal 5 Juli 2020, hasil positif tanggal 8 Juli 2020. Saat ini sudah dipindah ke ruang isolasi di RSUA. 
+Hasil tracing selama 14 hari yang lalu: sedang dilakukan dari tanggal 21 Juni – 5 Juli 2020.; 
+Perlu koordinasi dengan takmir masjid MMI karena tanggal 19 Juni 2020 tercatat terakhir ke masjid ITS. Maret-Juni masih aktif ke masjid kampus.",,,"Pihak Sarpras sudah berkoordinasi dengan pak Suko untuk membantu penyediaan kebutuhan pokok.","5"
+"91","2020-07-08 17:23:00","25","9",NULL,"1.	Status covid: positif covid
+2.	Alamat Rumah: Jl. Darmahusada Raya No. 18
+3.	Penanganan yang sudah dilakukan: Rapid tes reaktif tanggal 5 juli 2020, foto thorax seperti pneumonia. Swab test tanggal 5 Juli 2020, hasil positif tanggal 8 Juli 2020. Saat ini sudah dipindah ke ruang isolasi di RSUA. 
+4.	Hasil tracing selama 14 hari yang lalu: sedang dilakukan dari tanggal 14 Juni – 5 Juli 2020. 
+5.	Tindak lanjut untuk unitnya di its : Perlu koordinasi dengan takmir masjid MMI karena tanggal 19 Juni 2020 tercatat terakhir ke masjid ITS. Maret-Juni masih aktif ke masjid kampus.",,,"Pihak Sarpras sudah berkoordinasi dengan pak Suko untuk membantu penyediaan kebutuhan pokok.","5"
+"92","2020-07-10 23:21:00","25","11",NULL,"Assalamu'alaikum warahmatullahi wabarakatuh
+
+Innalillahi wa inna ilaihi rojiun.
+Allahumma firlahu warhamhu wa`afihi wa`fu`anhu.
+Allahumma sholli ala Muhammad wa'ala alihi wasallim
+Semoga Almarhum Prof. Machmud Zaki husnul khotimah
+Semoga diampuni dosa dan diterima amal ibadah beliau, selalu menjadi panutan.
+Aamiin",,,,"7"
+"93","2020-07-08 08:45:00","10","12",NULL,"ini hasil tracingnya thdp pak budi dan pak irfan dr kadep bio dan pak dekan. Kmudian di rapid.. dan 2 diantaranya reaktif sandhy dan denni. Ada 1 yg ga mau rapid krn takut.",,,,"5"
+"94","2020-07-11 18:04:00","10","13",NULL,"Alhamdulillah Mas deni negatif",,,,"5"
+"95","2020-06-30 14:22:00","14","12",NULL,"Sandhy, dewi saroh, angga (biologi): tdk ada gejala",,,,"10"
+"96","2020-07-11 18:04:00","14","13",NULL,"Alhamdulillah bu dewi hasil swab saya negatif",,,,"5"
+"97","2020-06-30 14:22:00","15","12",NULL,"Sandhy, dewi saroh, angga (biologi): tdk ada gejala",,,"Riwayat kontak dengan Alm Pak Budi Kasianto","10"
+"98","2020-06-30 14:21:00","16","12",NULL,,,"batuk 2 hari","Tetap masuk kantor s/d 25/6","10"
+"99","2020-06-30 20:49:00","16","12",NULL,"Status covid: OTG.
+Penanganan yang sudah dilakukan:  Tgl 26/6 hingga saat ini berkegiatan di rumah saja.;
+Hasil tracing selama 14 hari yang lalu: kontak dg pak budi  dan pak irfan",,"Agak batuk di tgl 22- 24/6","s/d tgl 18/6 msh bertugas di dlm ged bio
+s/d 25/6 msh bertugas di selasar bio","10"
+"100","2020-07-08 15:00:00","8","12",NULL,"Status covid: rapid reaktif; 
+Penanganan yang sudah dilakukan: Rapid tes reaktif tanggal 5 juli 2020 [diawali screening krn sbg pengawas UTBK; krn reaktif maka tdk jd pengawas], swab tanggal 8 Juli 2020.;
+Hasil tracing selama 14 hari yang lalu: 
+- tdk ada kontak dengan orang yang positif / pdp
+- Terakhir ke luar kota dari lumajang, pulang ke lumajang menggunakan kendaraan pribadi..di lumajang tidak kemana2,hanya di rumah saja,selama 4 hari dan perjalanan ke lumajang sudah lebih dari 14 hari",,,,"6"
+"101","2020-07-11 22:31:00","26","8",NULL,"rapid reaktif tgl 5 juli, 
+6 juli swab.
+11 juli hsl swab positif.
+
+Ikut rapid krn bu lisa pengawas utbk di Unair.
+
+Isolasi mandiri dirumah,  selagi nunggu konsul ke rski senin besok.",,,,"10"
+"102","2020-07-12 10:20:00","26","8",NULL,"Bapak, dari pihak keluarga keberatan utk diantar dengan ambulan, rencananya besok mbak lisa ambil hasil di RSKI jam 7 pagi, lalu jam 9 pagi disarankan oleh pkm dilakukan tes rapid mbak lisa dan suami serta 2 anaknya, dan sorenya jam 2-3 antar bu yuda ke RS ( yg antar pak wahono dan suami mbak lisa) semuanya tidak berkenan diantar oleh kami",,,,"9"
+"103","2020-07-12 11:39:00","26","8",NULL,"Jadi terpaparnya mbak lisa ini karena ada temannya yg sdh positif di tmp kerja",,,,"9"
+"104","2020-07-17 11:18:00","37","8",NULL,"Awal juni typhus (hsl pemerikasaan pusk klampis)
+Rapid test : 26 Juni (lab kita) hasil Reaktif
+Swab 30 juni (rs premier): Hasil positif
+Pusk keputih tdk mendapat notif dr RS premiere.
+P. Kohar juga tdk melaporkan ke rw/kel/ Kec,  hanya melapor pd pak Rt dan minta spy dirahasiakan
+Swab 10 Juli (Rs Premire): Hasil negatif
+Hari ini diminta pusk utk isoman lagi s/d 23 Juli",,,,"5"
+"105","2020-07-20 09:00:00","37","8",NULL,"Status covid: terkonfirmasi positif covid;
+Penanganan yang sudah dilakukan: Awal juni typus dari hasil pemeriksaan Puskesmas Klampis. Rapid tes tanggal 26 juni dengan hasil reaktif. Swab tanggal 30 Juni 2020 dengan hasil positif. Swab 10 juli dengan hasil negative. Yang bersangkutan diminta melakukan isoman sampai 23 Juli 2020.;
+Hasil tracing selama 14 hari yang lalu: sedang dilakukan dari tanggal 19 Juni – 20 Juli 2020.;
+Tindak lanjut untuk unitnya di its : sedang koordinasi dengan Biro Sarpras (P Hadi) dan Pak WR3.",,,"Ybs tidak melaporkan kepada atasan","5"
+"106","2020-07-15 15:21:00","38","8",NULL,"Pak Faiz pd tgl 30 Juni menjalani swab tes dlm rangka memenuhi syarat keterlibatan pd sebuah proyek. Tgl 3 Juli hasil tes swab menunjukkan hasil positif sehingga ybs belum diperkenankan terlibat langsung di proyek tsb;
+ Ybs selanjutnya disarankan melakukan isolasi mandiri selama 14 hari dan setelah 14 hari akan dilakukan swab tes lagi;
+Ybs telah melakukan isolasi mandiri di rumah dgn ruangan yg terpisah dari anggota keluarga yg lain;
+Selama isolasi mandiri ybs berusaha mengkonsumsi vitamin tambahan utk meningkatkan daya tahan tubuh;
+Sbg Dekan, kami sdh menghimbau kpd ybs utk melaporkan kondisinya kpd RT/RW setempat utk kebaikan bersama.",,,,"5"
+"107","2020-07-16 10:03:00","38","8",NULL,"Pak Faiz pd tgl 30 Juni menjalani swab tes dlm rangka memenuhi syarat keterlibatan pd sebuah proyek. Tgl 3 Juli hasil tes swab menunjukkan hasil positif sehingga ybs belum diperkenankan terlibat langsung di proyek tsb;
+Ybs selanjutnya disarankan melakukan isolasi mandiri selama 14 hari dan setelah 14 hari akan dilakukan swab tes lagi;
+Ybs telah melakukan isolasi mandiri di rumah dgn ruangan yg terpisah dari anggota keluarga yg lain;
+Selama isolasi mandiri ybs berusaha mengkonsumsi vitamin tambahan utk meningkatkan daya tahan.;
+Tindak lanjut untuk unitnya di its : sedang koordinasi dengan Dekan Fakultas Vokasi. ;
+Hasil tracing selama 14 hari yang lalu: sedang dilakukan dari tanggal 16 Juni – 15 Juli 2020.;
+Penanganan yang sudah dilakukan: tes dilakukan 1 Juli, hasil tes swab positif tanggal 3 juli. Saat ini isolasi mandiri dan baru diketahui oleh satgas kampung RW 5 Perumdos.;","Sudah memberikan notifikasi ke puskesmas.",,"Ybs tidak melaporkan baik kepada satgas kampung maupun satgas ITS ketika dinyatakan positif covid","11"
+"108","2020-07-20 13:53:00","38","8",NULL,"Pak Faiz tes swab mandiri kembali di Rs adi husada 18/7.;
+Kelg menolak difasilitasi pusk utk rapid test",,,,"10"
+"109","2020-07-22 20:30:00","39","8",NULL,"30/6 rapid test hsl non reaktif;
+1/7 tes swab;
+7/7 hsl swab positif covid;
+17/7 tes swab lagi (menunggu hasil);
+
+Konsultasi mengenai obat2an dgn kelg nya yg dokter;
+Mulai maret (perkuliahan online) tdk pernah ke ITS;
+ Pusk menawarkan tes swab ...kelg memilih swab mandiri;
+Ibu meninggal krn covid",,"Gejala : 
+20/6 demam; 
+28/6 batuk;
+10/7- 16/7 : demam tinggi",,"10"
+"110","2020-07-23 10:00:00","39","8",NULL,"Penanganan yang sudah dilakukan: tes swab pertama tanggal 7 juli 2020 dengan hasil positif. Tes kedua swab tanggal 17 juli 2020 dan masih menunggu hasilnya. Ada keluarga yang dokter sehingga konsultasi obat-obatan dengan dokter tersebut.;
+Hasil tracing selama 14 hari yang lalu: mulai awal maret tidak pernah ke ITS.",,,"Saat ini sedang didampingi oleh bimbingan konseling ITS. Informasi tambahan: Ibundanya meninggal karena covid bulan Juni. Saat ini, ayah, adik dan asisten RT nya positif covid.","5"
+"111","2020-07-23 13:34:00","7","10",NULL,"Alhamdulillah berkat Rahmat dan ijin Allah SWT, mas sandhy sudah negatif hasil swabnyaya dan saat ini menuju ke rumah untuk berkumpul lagi dengan keluarga tercinta. Semoga kita semua selalu dalam perlindungan Allah swt, sehat selalu dan  terhindar dari segala marabahaya, penyakit dan keburukannya.",,,,"5"
+"112","2020-07-14 13:16:00","26","9",NULL,"Saat ini bu lisa sdh dijemput oleh pusk keputih utk isolasi di HAH",,,"Yth dr Sri dan bu Lena mohon pesan kamar utk pasien di HAH tanggal 14 juli 2020....Puskesmas Keputih
+
+1.Nama  : Lisa Wahyuningtyasti
+NIK       : 3578094510770001
+Umur    : 43 tahun
+Alamat  : Perum ITS.Humaniora B6
+No. HP  : 08113322299
+Status     : konfirm
+Swab 1    : tgl 6/7/2020 hasil tgl    :10/7/2020. positif
+Penyakit komorbid :_","10"
+"113","2020-07-24 11:00:00","40","8",NULL,"1.	Status covid: Rapid tes 14 Juli dengan hasil reaktif. Swab dilakukan 21 Juli dan hasil tanggal 23 Juli dengan hasil positif.; 
+2.	Alamat Rumah: DK Jombangrejo RT 001/001 Mandong Trucuk, Klaten. Domisili di Surabaya bersifat nomaden.; 
+3.	Penanganan yang sudah dilakukan: tes swab difasilitasi satgas ITS dan Satgas Jatim. Saat ini sedang diproses mendaftarkan ke RS Lapangan Indrapura untuk isolasi mandiri. ;
+4.	Hasil tracing selama 14 hari yang lalu: sedang dilakukan tracing dari tanggal 1 juli sd 24 Juli. ;
+5.	Tindak lanjut untuk unitnya di its : akan disterilisasi oleh sarpras.   ;
+6.	Tindak lanjut dari satgas Surabaya/jatim: sudah berkoordinasi dengan satgas jatim. ;
+7.	Catatan tambahan: Ybs hidup nomaden dan membiayai sehari-hari kehidupannya dengan bekerja seperti membantu service AC dan lainnya.",,,,"5"
+"114","2020-07-27 08:33:00","6","10",NULL,"Pak Irfan: Ngapunten Bu Dewi meniko ada aturan baru dari kemenkes dan saya ke rumah sakit haji dikasih surat meniko tanpa di swab lagi
+Bu hidayati dewi: Oh nggih Pak Irfan..kalau dokter sdh memberi rekomendasi demikian Insya Allah Pak irfan sdh sehat , namaun untuk semntara tetap isolasi mandiri..jurusan masih akan menetapkan WFH pak..dan saat ini masih belum banyak kegiatan..gunakan waktunya untuk olah raga di rumah, beribadah dan mungkin baca2 yang bermnafaat",,,,"5"
+"115","2020-07-29 22:17:00","41","8",NULL,"Pak Yono (54th)/ staf DRPM
+
+Alamat : kedung sumber Balongpanggang Gresik
+
+23/7 rapid test hsl Reaktif
+24/7 tes swab
+28/7 hsl swab positif covid
+
+Saat ini isolasi mandiri 
+Sdh di hub oleh RW setempat
+
+Kontak di ITS :
+16/7 kantor Drpm dgn :
+P. Sugeng, Joko, Sunari, Arman
+
+23/7 pudjananto, Musa, 2 org lainnya (lupa)
+
+27/7 ujian kenaikan pangkat/gol di kantor drpm di awasi oleh : bu Manda & p. Sunari serta ada petugas kebersihan",,"2 minggu pilek, saat ini sudah tdk pilek",,"10"
+"116","2020-07-30 09:00:00","41","8",NULL,"Update kasus terbaru bapak Yono, Tendik DRPM (Tanggal 30 Juli 2020 jam 09.00):  
+1.	Status covid: Terkonfirmasi positif
+2.	Alamat Rumah: Gresik. 
+3.	Penanganan yang sudah dilakukan: Tanggal 23 Juli 2020 melakukan rapid tes dengan hasil reaktif. Tanggal 24 Juli 2020 melakukan SWAB tes dengan hasil positif tertanggal 28 Juli 2020. Saat ini ybs diminta melakukan isolasi mandiri dan ditangani satgas kampung setempat. 
+4.	Hasil tracing selama 14 hari yang lalu: ada aktivitas yang dilakukan di DRPM. Sedang berkoordinasi dengan DRPM. Sudah melakukan koordinasi dengan Sarpras untuk sterilisasi di lingkungan DRPM.  
+5.	Tindak lanjut untuk unitnya di ITS: Sedang dilakukan tracing pada civitas terutama dilingkungan DRPM oleh Pak Direktur DRPM. 
+6.	Tindak lanjut dari satgas Surabaya/jatim: -
+7.	Catatan tambahan: -
+Satgas covid ITS",,,,"5"
+"117","2020-07-29 10:45:00","40","10",NULL,"Alhamdullilah ..mas sutrisno hasil swab negatif",,,,"10"
+"118","2020-08-02 20:02:00","42","9",NULL,"Yth. GusGas Kampung tangguh RW04.
+Cc. 
+1. Yth Satgas Covid-19 ITS
+2. Yth bu Endang.
+
+Kasus baru blok D baru
+Info dari ibu lurah dari bu Wali: Fidela Atika M blok D29 RT01 RW04, Perum ITS swab test positif
+Sekarang ybs sdh isolasi di hotel IBISH.
+Besuk keluarganya di rapid test di Puskesmas Keputih.
+Karena ybs sdh berkumpul dg keluarga selama beberapa hari sebelum ketahuan positif, maka keluarga pun harus isolasi mandiri di rumah selama 14 hari.
+Mohon tim wani sejahtera bersiap supply permakanan.
+P Aris urusan Cateringnya.
+P Sadino P Setiawan P Eddy Kun tim wani sejahtera mohon mengatur diri dlm memfasilitasi.
+Mulai makan siang besuk. Ada 3 orang yg harus dilayani.
+Matur nuwun.
+Wassalam
+Faqih@RW04",,,,"11"
+"119","2020-08-02 20:30:00","42","9",NULL,"Update kasus Fidela atika, pegawai Bank BNI graha pangeran, putri ibu endang susilowati (Tgll 2 agustus 2020 jam 20.30):  
+1.	Status covid: Rapid tes tgl 30 Juli hasil reaktif. Dilanjut Swab tgl 30 Juli hasil positif. 
+2.	Alamat Rumah: perumdos blok D29 RT 01 RW 04
+3.	Penanganan yang sudah dilakukan: tes swab difasilitasi Kantor tempat kerja yg bersabgkutan dikarenakan 2 lantai dibawah tempat kerjanya di lockdown karena ada 5 org yg terindikasi swab positif. Saat ini yg bersangkutan sudah isolasi di hotel ibis.
+4.	Hasil tracing selama 14 hari yang lalu: -
+5.	Tindak lanjut untuk unitnya di its : akan disterilisasi oleh sarpras.","sudah isolasi di hotel ibis, utk kontak erat keluarga nya ada 3 org rencana besok tes rapid di puskesmas keputih",,,"9"
+"120","2020-07-30 10:46:00","9","12",NULL,,,,"Kontak Erat Pak sukur, dan Pak Sukur sudah sembuh sejak 4 Juli 2020","2"
+"121","2020-08-03 22:17:00","5","10",NULL,"Kasus selesai, SWAB pertama negatif",,,,"9"
+"122","2020-08-03 22:17:00","4","10",NULL,"Kasus selesai, SWAB pertama negatif",,,,"9"
+"123","2020-08-09 17:26:00","43","8",NULL,"Assalamu'alaikum wr wb.
+Bpk ibu Gus Gas Kampung Tangfuh RT04 ITS.
+CC.
+1. Ibu Lurah
+2. Puskesmas
+3. Satgas Covid-19 ITS
+
+ Info dari Puskesmas: ibu Farida G1 swab test positif. Isoman sejak Sabtu kemarin
+Besuk, seluruh keluarganya diminta rapid test ke Puskesmas.
+Tim Wani Sejahtera p Sadino P Setiawan P Eddy Kun, mohon mulai melayani permakanan mulai Senin pagi besuk.
+Pak Aris, tim wani jogo, mohon menyiapkan catering dan solar utk bakar sampah. Mohon  info pak Aris berapa jumlah porsi permakanan yg harus disediakan. Dlm KSK ada 5 orang.
+Bu Pingit bendahara mohon pendanaannya disiapkan. 
+Tks.
+Semoga Allah selalu melimpahkan kesehatan dan keselamatan bagi kita semua. Amin.
+Wassalam
+Faqih@RW04ITS",,,,"11"
+"124","2020-08-10 12:30:00","43","8",NULL,"Penanganan yg sudah dilakukan :
+- Tes rapid 31/7 : reaktif
+- foto thorax : gbran pneumoni
+- Tes swab  2/8 : positif
+- Saat ini isolasi mandiri di rumah
+
+3. Hasil tracing :
+31/7 periksa ke RS. Haji krn penyakit khronis. 
+
+
+Disarankan dokter utk tes rapid
+Tinggal dg 6 org anggota kelg lainnya.
+Ada tempat kos yg terpisah dgn akses jalan sendiri.","- tracing
+- tes rapid di pusk keputih utk 6 org anggota kelg 10/8","Komorbid :Ca. Gejala: batuk & pilek","Hasil tes rapid anak perempuan & menantu : reaktif dan akan dilakukan swab tgl 12/8 di gelora pancasila. Ybs juga sdh dalam penanganan satgas kampung RW04 ITS.","10"
+"125","2020-08-09 20:30:00","44","1",NULL,"Status covid :
+Rapid tes di RS MITRA KELUARGA tgl 08 agustus hasil reaktif. Rencana senin/selasa akan melakukan tes swab. Datang ke RS utk berobat karena panas naik turun selama seminggu
+
+Penanganan yang sudah dilakukan :
+tes swab. Saat ini yg bersangkutan isolasi di rumah.",,"Sejak tgl 2 badan meriang dan diobati sendiri tetapi tidak sembuh, komorbid obesitas","Rencana senin/selasa akan melakukan tes swab mandiri di RS MITRA KELUARGA KENJERAN bersama suami dan 1 anak","9"
+"126","2020-08-10 09:02:00","45","5",NULL,"Sekarang sedang diisolasi di RSUA. Mohon doanya. Sehari2 tinggal di Baskara. Masih komunikasi. Utk kondisi medisnya saya tidak paham. Tidak berani tanya secara detul. [15:53, 8/10/2020] +62 812-3748-7033: nggih, ada alamat di Perumdos tapi tidak tinggal disitu. Jl. Hidrodinamika III/T - 65  , Sukolilo, Surabaya. Dulu dipakai kontrak kostan mhs. saya tidak tahu sekarang. Yang jelas tinggal sehari2 di Baskara.",,,,"5"
+"127","2020-08-11 09:40:00","42","10",NULL,"fidela sdh negatif",,,,"9"
+"128","2020-08-11 14:02:00","37","10",NULL,"sdh bs dikatakan sembuh, karena SWAB negatif",,,,"9"
+"129","2020-08-12 09:13:00","45","5",NULL,"Assalamu’alaikum Wr Wb
+Yth Ketua Satgas Covid-19 ITS
+Ijin melaporkan bahwa saat ini dosen dari Departemen Teknik Infrastruktur Sipil yang bernama Ir. Sungkono, CES, sat ini sedang dirawat di RSUA untuk observasi.
+Ada indikasi belaiu terkena Covid. S
+Sudah dilakukan swab, namun hasil tes belum terinformasikan ke kami.
+Sebelum dan sesudah sakit, TIDAK ADA KEGIATAN di lingkungan Kampus.
+Terima kasih",,,,"5"
+"130","2020-08-02 13:51:00","46","8",NULL,,,,"Kondisi Saya suda lebih baik terkadang, nenek juga sudah lebih baik, adik sudah beraktivitas normal. Kami masih tidak bisa mencium bau.
+Tidak bertemu siapapun kecuali anggota keluarga.","3"
+"131","2020-07-22 08:44:00","46","8",NULL,,,,"Sempat pergi ke pasar dekat rumah. Ketemu dengan keluarga saja krn wfh","3"
+"132","2020-07-23 08:44:00","46","8",NULL,,,,"Menjadi PJ TIK UTBK untuk perpus lt.3, lt.6 dan SI, sempat ke dptsi untuk ishoma.
+Bertemu dengan mas nanok, bu maya SI, pak tondo perpus dan pak dimas perpus lt.6","3"
+"133","2020-07-24 08:45:00","46","8",NULL,,,,"Wfh, bertemu dengan keluarga. Saudara TNI yg sedang pendidikan di juanda datang ke rumah, beliau datang sore hari dengan kondisi batuk ringan.","3"
+"134","2020-08-13 07:30:00","45","5",NULL,"1. Status covid : suspek covid 19
+
+2. Penanganan yg sudah dilakukan :
+- Tes rapid 8/8 : reaktif
+- foto thorax : gbran pneumonia
+- Tes swab  11/8 : hsl blm keluar
+- Sejak 8/8 sampai saat ini menjalani  isolasi di RSUA
+
+3. Hasil tracing :
+21/7 ke medical center  utk minta rujukan ke poli saraf rs mitra kelg krn stroke. TIdak ke kampus sejak WFH",,"Komorbid : diabetes , stroke;
+28/7 gejala : demam, sakit tenggorokan, pusing;
+8/8 gejala : sesak nafas","Lokasi rmh  juga sdh dalam penanganan satgas kampung","10"
+"135","2020-08-13 08:50:00","44","1",NULL,,,"Nyonya sabtu malam ke Rumah Sakit Mitra Keluarga dan ditest reaktif dan demam selama 1 Minggu. Kondisi kesehatan naik turun, Alhamdulillah hari ini bagus. Besok kami akan Test swab PCR agar tahu kondisi terkini. Tadi pagi daftar dan besok dilayani.",,"11"
+"136","2020-08-14 15:00:00","46","8",NULL,"Penanganan yg sudah dilakukan :
+- Tes rapid serologi tanggal 25/7 dengan hasil non reaktif dan Tes swab  tanggal 6/8 dengan hasil positif
+- Saat ini menjalani isolasi mandiri di rumah
+
+Hasil tracing : sudah dilakukan dengan bantuan satgas unit DPTSI. Ada kegiatan ybs di DPTSI, perpustakaan dan arsitektur dalam waktu 14 hari sebelum tes swab.
+
+Tindak lanjut unit di its:
+- Sudah koordinasi dengan sarpras untuk sterilisasi DPTSI 
+- Ketua satgas unit berkoordinasi dan meminta izin pada Direktur SDMO dan WR3 untuk lockdown dan memberlakukan WFH untuk seluruh staff dan tendik DPTSI selama 2 minggu. 
+- Berkoordinasi dengan Kabiro Sarpras terkait 2 THL yang ada di DPTSI. Keputusan dari Kabiro sarpras bahwa kedua THL selama DPTSI lockdown tetap masuk/piket","- sudah dilakukan tracing oleh puskesmas setempat
+- anggota kelg ditawarkan utk tes rapid ttp menolak krn takut",,"- Ybs tinggal dgn nenek & adik yg mengalami gejala yg kurang lbh sama
+- Penggalangan dana kemanusiaan peduli Covid-19 untuk support biaya swab/permakanan","10"
+"137","2020-08-10 08:53:00","38","10",NULL,"ada surat keterangan rapid test non reaktif",,,,"5"
+"138","2020-08-18 08:54:00","44","8",NULL,"Istri pak Agus Rubi, ibu Halimah Siwi dan putrinya Yasmin hasil swabnya Positip. Beliau Isolasi Mandiri",,,,"11"
+"139","2020-08-18 18:30:00","44","8",NULL,"1.	Status covid :
+Rapid tes di RS MITRA KELUARGA tgl 08 agustus hasil reaktif. Hari jumat melakukan tes swab sekeluarga ke RS Mitra Keluarga Kenjeran dan kontrol berobat, dengan hasilnya prof. Agus Rubi negatif, ibu halimah (istri prof. Agus) positif, serta putrinya jasmin juga positif
+
+2.	Alamat Rumah : perumdos hidrodinamika 2 T21 RT 01 RW 07
+
+3.	Penanganan yang sudah dilakukan :
+tes swab. Saat ini sekeluarga isolasi di rumah.
+
+4.	Hasil tracing selama 14 hari yang lalu :
+Sejak tgl 2 badan meriang dan diobati sendiri tetapi tidak sembuh, berobat gejala agak berkurang, tetapi pada hari ke 10 - 12 agak sesak, tapi saat ini hari ke 13 berangsur membaik, komorbid obesitas
+Status kesehatan :
+Prof Agus R Kontak erat
+Ibu halimah suspek
+Mbak jasmin konfirmasi
+
+Disiapkan permakanan dari RT setempat","Disarankan swab di gelora pancasila, tetapi prof. Agus sekeluarga melakukan swab mandiri di RS MITRA",,"Saat ini bu halimah gejala sudah banyak berkurang hanya tersisa batuk, disarankan jika ada tambahan keluhan untuk berobat ke RS, dan rencana 10 hari kedepan oleh RS disarankan kontrol swab.","9"
+"140","2020-08-18 19:30:00","48","8",NULL,"1. Status covid : konfirmasi positif covid
+
+2. Penanganan yg sudah dilakukan :
+- Tes rapid 10/8 : reaktif
+- Tes swab 11/8 : positif
+- Saat ini isolasi mandiri di rumah
+
+3. Hasil tracing :
+Tanpa gejala
+Komorbid : -
+Mulai isolasi mandiri setelah ibu positif covid 19","- tracing
+- tes rapid di pusk keputih 
+- tes swab","-","Mulai isolasi mandiri setelah ibu positif covid 19","10"
+"141","2020-08-18 19:30:00","47","8",NULL,"1. Status covid : konfirmasi positif covid
+
+2. Penanganan yg sudah dilakukan :
+- Tes rapid 10/8 : reaktif
+- Tes swab 11/8 : positif
+- Saat ini isolasi mandiri di rumah
+
+3. Hasil tracing :
+Pertengahan Juli ke medical center utk memeriksakan diri krn ada benjolan
+5/8 Dirujuk ke rs gotong royong
+Komorbid : -
+Tanpa gejala 
+Mulai isolasi mandiri setelah ibu mertua positif covid 19","- tracing
+- tes rapid di pusk keputih 
+- tes swab",,"Ybs juga sdh dalam penanganan satgas kampung RW04 ITS.","10"
+"142","2020-08-20 16:30:00","49","9",NULL,"1. Status covid : konfirmasi positif covid
+
+2. Penanganan yg sudah dilakukan :
+- Tes rapid (4×) juni- awal   agustus :  non reaktif
+- Tes rapid  14/8 : reaktif
+- Tes swab 14/8 : positif
+- 14/8 - 19/8 isolasi di hotel grand park
+- 20/8 isolasi di hotel Asrama Haji.
+
+
+Istri (bu Afida) dan anak sulung
+10/8 gejala : batuk, pilek
+13/8 memeriksakan diri ke medical center
+14/8 tes rapid : non reaktif
+18/8 bu afida ke dept matematika dan bertemu 2 tendik & cleaning service
+Status : suspek covid
+Rencana akan melakukan tes swab
+
+4. Tindak lanjut unit di its: sudah melapor kepada atasan.
+
+5. Tindak lanjut dari satgas Surabaya /jatim :
+- tes rapid di pusk  
+- tes swab di pusk
+
+6.Catatan tambahan:
+Ybs sudah melaporkan ke ketua Rt dan kepala departemen. Meminta bantuan satgas unit u/tracing kontak erat Bp. Yoesoef tanggal 7 agustus sd 20 agustus 2020.",,"Gejala : 7/7 batuk, demam dan kehilangan fungsi penciuman.
+Rapid : non reaktif 4/8","Bbrp kali keluar kota/pulau.
+Tidak ke masjid di lingk ITS","10"
+"144","2020-07-27 08:35:00","51","12",NULL,"Kontak Erat dengan Istri dan anak, tinggal di perumahan dinas ITS","perlu test SWAB di faskes","tidak ada","tidak ada","9"
+"145","2020-08-26 11:40:00","52","12",NULL,"Mengikuti tes rapid krn merawat ibunya yg reaktif.
+25/8 tes rapid mandiri  hasil : reaktif
+Akan tes swab apabila ibunya  keluar hsl swabnya positif","Ktpnya sidoarjo... dan puskesmas menyampaikan akan melakukan swab bila ibunya positif","Tidak ada gejala","Ke kantor 19/8","10"
+"146","2020-08-28 11:21:00","53","8",NULL,"putri kami kakaknya Reza sdh ngantor lg, dia OTG kemarin itu, jd berbahaya u/ orang lain, krn dia tdk merasa sakit, seminggu setelah reaktif rapidnya, n swapnya positif, langsung sdh negatif u/swap ke3nya.",,"positif OTG",,"5"
+"147","2020-08-31 08:27:00","13","10",NULL,"sdh tdk terkait covid",,,,"5"
+"148","2020-08-31 08:28:00","12","12",NULL,"sdh tdk terkait covid",,,,"5"
+"149","2020-08-31 09:06:00","16","12",NULL,"sdh tdk terkait covid",,,,"5"
+"150","2020-08-31 09:07:00","3","10",NULL,"pcr negatif 14 juli",,,,"5"
+"151","2020-08-31 09:08:00","46","8",NULL,"1. ybs dan keluarga sekarang dalam keadaan sehat
+2. sudah diperiksa oleh dokter mitra keluarga kenjeran dan sudah diberi surat bebas pemantauan dan dinyatakan dapat melakukan aktivitas sehari2 seperti bisaa
+3. dari pihak puskesmas masih melakukan assesmen dan rencana nya akan ada test swab kembali
+
+* terlampir surat ybs dari mita keluarga kenjeran",,,,"2"
+"152","2020-08-31 09:21:00","46","10",NULL,"status pemantauan selesai",,,,"2"
+"153","2020-08-31 10:43:00","17","12",NULL,,,,,"10"
+"154","2020-08-31 10:44:00","41","10",NULL,,,,,"10"
+"155","2020-08-31 10:44:00","39","10",NULL,"kasus selesai oleh pemantau",,,,"10"
+"156","2020-08-31 10:45:00","11","12",NULL,"kasus selesai oleh pemantau",,,,"10"
+"157","2020-08-31 10:45:00","49","10",NULL,"kasus selesai oleh pemantau",,,,"10"
+"158","2020-08-31 10:47:00","26","10",NULL,"kasus selesai oleh pemantau",,,,"10"
+"159","2020-08-31 10:47:00","48","10",NULL,"kasus selesai oleh pemantau",,,,"10"

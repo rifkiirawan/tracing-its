@@ -1,0 +1,173 @@
+"id","tipe","nama","kota_id","status_rujukan","alamat"
+"1","C","Rumah Sakit Umum Daerah Dr. Harjono S. Ponorogo","3502",NULL,"Jl. Ciptomangunkusumo Ponorogo"
+"2"," ","RS Aisyiah","3502",NULL,"Jl. Dr Sutomo 18 Ponorogo"
+"3"," ","RSIA Darmayu","3502",NULL,"Jl. Dr. Soetomo 44 Ponorogo"
+"4","C","RSU Dr Soedomo Trenggalek","3503",NULL,"Jl. Dr Sutomo No.2 Trenggalek"
+"5","C","Rumah Sakit Umum Daerah Dr. Iskak Tulungagung","3504",NULL,"Jl. Dr WS Husodo Tulungagung"
+"6"," ","RS Islam Orpeha","3504",NULL,"Jl. KHR Abdul Fatah Tulungagung"
+"7","C","RSU Wlingi","3572",NULL,"Jl. Dr Sucipto No.5 Wlingi"
+"8","B","RSU Pare","3506",NULL,"Jl. Pahlawan (DS Palem) Pare"
+"9"," ","RS PTP XXI Toeloengredjo","3506",NULL,"Jl. A Yani 25 Pare Kediri"
+"10"," ","RSU Bala Keselamatan","3573",NULL,"Jl. A Yani 91 Turen Kab Malang"
+"11","A","RS Jiwa Lawang","3573",NULL,"Jl. Jend A Yani Lawang"
+"12"," ","RS TP Batu","3573",NULL,"Jl. A Yani No.10-13 Batu Malang"
+"13","C","RSU Kepanjen","3573",NULL,"Jl. Panggungrejo 1 Kepanjen"
+"14","C","RSU Nararyya Kirana","3508",NULL,"Jl. A Yani 281 Lumajang"
+"15"," ","RS PTP XXIV Jatiroto","3508",NULL,"Jl. Dr Sudirman Jatiroto Lumajang"
+"16"," ","RS Wijaya Kusuma","3508",NULL,"Jl. A Yani No.149 Lumajang"
+"17","B","RSUD Dr Soebandi","3509",NULL,"Jl. Dr Soebandi No.1 Jember"
+"18"," ","RS PTPN X Jember","3509",NULL,"Jl. Bedadung No.2 Jember"
+"19","3","RS Rem 083 Jember","3509",NULL,"Jl. PB Sudirman No.49 Jember"
+"20"," ","RS TP Jember","3509",NULL,"Jl. Nusa Indah No.28 Jember"
+"21"," ","RS Utama Husada","3509",NULL,"Jl. Nanggar 134 Ambulu Jember"
+"22","C","RSUD Blambangan","3510",NULL,"Jl. Istiqlah No.49 Banyuwangi"
+"23"," ","RS PTP XXVI Bakti Husada","3510",NULL,"Krikilan Glenmore Banyuwangi"
+"24","C","RSU Genteng","3510",NULL,"Jl. Raya Timur 5 Genteng"
+"25"," ","RS Islam Fatimah","3510",NULL,"Jl. Jember 25 Banyuwangi"
+"26","C","RSU Bondowoso","3511",NULL,"Jl. Piere Tendean Bondowoso"
+"27","C","RSU Situbondo","3512",NULL,"Jl. Anggrek No.68 Situbondo"
+"28","C","RSU Waluyo Jati Kraksaan","3513",NULL,"Jl. Dr Sutomo No.1 Kraksaan"
+"29"," ","RSAB Masyitoh","3514",NULL,"Jl. A Yani No.6 Bangil Jatim"
+"30","C","RSU Bangil","3514",NULL,"Jl. Dr Sutomo 101 Bangil"
+"31"," ","RSIA Panca Dharma","3514",NULL,"Jl. Raya 14A Pandaan Sukorejo"
+"32","B","RSU Sidoarjo","3515",NULL,"Jl. Mojopahit No.667 Sidoarjo"
+"33"," ","RSU Siti Khodijah","3515",NULL,"Jl. Pahlawan Sepanjang Sidoarjo"
+"34","4","RS Pusdik Polri Porong","3515",NULL,"Pusdik Sabhara Porong"
+"35"," ","RS Delta Surya","3515",NULL,"Jl. Pahlawan Sidoarjo"
+"36"," ","RS Siti Hajar","3515",NULL,"Jl. Raden Patah No.70 Sidoarjo"
+"37"," ","RS Kusta Sumberglagah","3516",NULL,"Sumberglagah Pacet Mojokerto"
+"38","C","RSUD Jombang","3517",NULL,"Jl. KHW Hasyim 57 Jombang"
+"39"," ","RS Kristen Mojowarno","3517",NULL,"Jl. Merdeka Mojowarno Jombang"
+"40","C","RSU Nganjuk","3518",NULL,"Jl. Dr Sutomo 62 Nganjuk"
+"41","C","RSU Kertosono","3518",NULL,"Jl. Supriadi No.29 Kertosono"
+"42"," ","RS Satiti","3518",NULL,"Jl. Lonsep No.3 Kertosono"
+"43"," ","RS TP Dungus","3577",NULL,"Dungus Kec Wungu Kab Madiun"
+"44","D","RSU Panti Waluyo","3577",NULL,"Jl. A Yani Km 2 Curuban Madiun"
+"45","C","RSU Magetan","3520",NULL,"Jl. Pahlawan No.2 Magetan"
+"46","C","RSU Dr Soeroto Ngawi","3521",NULL,"Jl. Dr Wahidin 27 Ngawi"
+"47","C","RSU Dr Djatikoesoemo","3522",NULL,"Jl. Dr Wahidin 36 Bojonegoro"
+"48"," ","RSAB Aisyiyah B'negoro","3522",NULL,"Jl. Masjid No.11 Bojonegoro"
+"49"," ","RS Muhamadiyah Sumberejo","3522",NULL,"Jl. Raya Sumberejo Bojonegoro"
+"50"," ","RSU Dr R Koesma Tuban","3523",NULL,"Jl. Dr WS Husodo Tuban"
+"51"," ","RS Kusta Nganget","3523",NULL,"Pos Jojogan Bojonegoro Tuban"
+"52"," ","RSU Dr Soegiri Lamongan","3524",NULL,"Jl. Kusuma Bangsa 7 Lamongan"
+"53"," ","RS Islam Nashrul Ummah","3524",NULL,"Jl. Merpati No.62 Lamongan"
+"54"," ","RS Muhammadiyah Lamongan","3524",NULL,"Jl. Jks Agung Suprapto Lamongan"
+"55","C","RSU Gresik","3525",NULL,"Jl. Dr W Sudiro Husodo Gresik"
+"56"," ","RS PT Semen Gresik","3525",NULL,"Jl. RA Kartini No.280 Gresik"
+"57"," ","RSIA Nyai Ageng Pinatih","3525",NULL,"Jl. KH Abd Karim 76-78 Gresik"
+"58"," ","RS Jiwa Aditama","3525",NULL,"Jl. Raya Bunder Gresik"
+"59","C","RSU Bangkalan","3526",NULL,"Jl. Pemuda Kaffa No.9 Bangkalan"
+"60","4","RS AL Batuporon","3526",NULL,"Jl. Mawar Madura Kab Bangkalan"
+"61","C","Rumah Sakit Umum Daerah dr. Mohammad Zyn Kabupaten Sampang","3527",NULL,"Jl. Rajawali No.10 Sampang"
+"62","C","RSU Pamekasan","3528",NULL,"Jl. Kesehatan No.3-5 Pamekasan"
+"63","C","RSU Sumenep","3529",NULL,"Jl. Dr Cipto No.42 Sumenep"
+"64"," ","RS Mardi Waluyo","3529",NULL,"Jl. Raya Kalianget Kab Sumenep"
+"65","C","RSU Gambiran","3571",NULL,"Jl. KH Wahid Hasyim 64 Kediri"
+"66"," ","RS Baptis Kediri","3571",NULL,"Jl. Mauni 1-7 Kediri"
+"67"," ","RS Kusta Kediri","3571",NULL,"Jl. Veteran No.48 Kediri"
+"68"," ","RSB Nirmala Kediri","3571",NULL,"Jl. Jagung Suprapto No.5 Kediri"
+"69","C","RSUD Mardi Waluyo","3572",NULL,"Jl. Dr Sutomo No.29 Blitar"
+"70"," ","RS Budi Rahayu","3572",NULL,"Jl. Jend A Yani 18 Blitar"
+"71"," ","RS Syuhada Haji","3572",NULL,"Jl. Mojo No.12 Blitar Jatim"
+"72","B","RSU Dr Saiful Anwar","3573",NULL,"Jl. Jagung Suprapto No.2 Malang"
+"73","2","RS Soepraoen","3573",NULL,"Jl. Sodanco Supriyadi Malang"
+"74"," ","RS Panti Nirmala","3573",NULL,"Jl. Kebalen Wetan 8 Malang"
+"75"," ","RS Panti Waluya Sawahan","3573",NULL,"Jl. Nusakambangan 56 Malang"
+"76"," ","RS PTPN XI Lavalete","3573",NULL,"Jl. WR Supratman 10 Malang"
+"77"," ","RSU Marsudi Waluyo","3573",NULL,"Jl. Mondoroko Singosari Malang"
+"78"," ","RS LPK Malang","3573",NULL,"Jl. Asahan No.7 Malang"
+"79","4","RS Lanuma Abdul Saleh","3573",NULL,"Lanud ABD Saleh Malang"
+"80"," ","RS Islam Gondang Legi","3573",NULL,"Jl. Hayam Wuruk 66 Malang"
+"81"," ","RS Islam Aisyiyah Malang","3573",NULL,"Jl. Sulawesi No.6 Malang"
+"82"," ","RS Islam Malang","3573",NULL,"Jl. Mayjen Haryono 139 Malang"
+"83"," ","RS Sumber Sentosa","3573",NULL,"Jl. Kebonsari No.47 Malang"
+"84","C","RSU Probolinggo","3574",NULL,"Jl. Panjaitan No.65 Probolinggo"
+"85"," ","RS Dharma Husada","3574",NULL,"Jl. Sukarno Hatta Probolinggo"
+"86","C","RSU Pasuruan","3575",NULL,"Jl. Dr Wahidin Selatan Pasuruan"
+"87","C","RSU Dr Wahidin S Husodo","3576",NULL,"Jl. Gajah Mada 100 Mojokerto"
+"88","4","RS Hadiono Singgih","3576",NULL,"Jl. R Wijaya 58 Mojokerto"
+"89"," ","RS PTP XXI\_XXII Gatoel","3576",NULL,"Jl. R Wijaya 56 Mojokerto"
+"90"," ","RS Reksa Waluya","3576",NULL,"Jl. Mojopahit 422 Mojokerto"
+"91"," ","RS Hasanah","3576",NULL,"Jl. HOS Cokroaminoto Mojokerto"
+"92"," ","RS Islam Sakinah","3576",NULL,"Jl. RA Basuni No.12 Mojokerto"
+"93","B","RSU Dr Soedono Madiun","3577",NULL,"Jl. Sumbawa No.6 Madiun"
+"94"," ","RS Santa Clara","3577",NULL,"Jl. Biliton No.15 Madiun"
+"95","4","RS Rem 081 Madiun","3577",NULL,"Jl. Pahlawan No.79 Madiun"
+"96"," ","RS Islam Siti Aisyah","3577",NULL,"Jl. Mayjen Sungkono 38 Madiun"
+"97","A","RSU Dr Soetomo","3578",NULL,"Jl. Prof Dr Moestopo Surabaya"
+"98","1","Rumah Sakit Angkatan Laut Dr. Ramelan","3578",NULL,"Jl. Gadung No.1 Surabaya"
+"99"," ","RS William Booth","3578",NULL,"Jl. Diponegoro 34 Surabaya"
+"100"," ","RS Katolik St. Vincentius a Paulo (RKZ) Surabaya","3578",NULL,"Jl. Diponegoro 51 Surabaya"
+"101"," ","RS Darmo","3578",NULL,"Jl. Raya Darmo 90 Surabaya"
+"102"," ","RS Adi Husada Pusat","3578",NULL,"Jl. Undaan Wetan 40-44 Surabaya"
+"103"," ","RS Griya Husada Surabaya","3578",NULL,"Jl. Bubutan 93 Surabaya"
+"104"," ","RS Pelabuhan Tg Perak","3578",NULL,"Jl. Kalianget No.1-2 Surabaya"
+"105","3","RS Al Tanjung Perak","3578",NULL,"Jl. Tg Perak No.56 Surabaya"
+"106"," ","RS Adi Husada Kapasari","3578",NULL,"Jl. Kapasari No.90-101 Surabaya"
+"107"," ","RS Islam Surabaya","3578",NULL,"Jl. Jend A Yani 2-4 Surabaya"
+"108","3","RS Denkesyah TNI AD Sby","3578",NULL,"Jl. Kesatriyan No.17 Surabaya"
+"109","4","RS AL Pal Surabaya","3578",NULL,"Jl. Taruna 66-68 Ujung Surabaya"
+"110","3","RS AL Gunungsari","3578",NULL,"Jl. Golf No.1 Surabaya"
+"111","4","RS AL Juanda","3578",NULL,"Jl. Bachtiar Yahya Surabaya"
+"112","4","RS Lanu Surabaya","3578",NULL,"Jl. Serayu 17 Surabaya"
+"113","4","RS AL Kodikal","3578",NULL,"Jl. Morokrembangan Surabaya"
+"114","4","RS Akabri Al Surabaya","3578",NULL,"Jl. Morokrembangan Surabaya"
+"115","A","Rumah Sakit Jiwa Menur Surabaya","3578",NULL,"Jl. Menur 120 Surabaya"
+"116"," ","RS Mata Undaan","3578",NULL,"Jl. Undaan Kulon 19 Surabaya"
+"117"," ","RSIA Siti Aisyiyah","3578",NULL,"Jl. Pacar Keling 15A Surabaya"
+"118"," ","RS Budi Mulia","3578",NULL,"Jl. Gubeng Raya 70 Surabaya"
+"119"," ","RS Al-Irsyad","3578",NULL,"Jl. KH Mansyur 210 Surabaya"
+"120"," ","RSK P Dalam Mukti Mulia","3578",NULL,"Jl. Kayun No.3 Surabaya"
+"121","D","RSU Haji Surabaya","3578",NULL,"Jl. Manyar Kertoadi Surabaya"
+"122"," ","RS Sumber Kasih","3578",NULL,"Jl. Menganti No.38-40 Surabaya"
+"123"," ","RSB Adi Guna","3578",NULL,"Jl. Alun Alun Rangkah 1-3 Surabaya"
+"124"," ","RS Taman Intan","3578",NULL,"Jl. Minden Intan Barat Surabaya"
+"125"," ","RS Husada Utama","3578",NULL,"Jl. Prof Dr Moestopo 31,33 Surabaya"
+"126","C","RSU Tambakrejo","3578",NULL,"Tambakrejo Komda TK.II Surabaya"
+"127"," ","RS Mitra Keluarga Sby","3578",NULL,"Jl. Satelit Indah II Surabaya"
+"128"," ","Rumah Sakit Umum Daerah Syarifah Ambami Rato Ebu","3526",NULL,
+"129"," ","Rumah Sakit Umum Daerah Dr. R. Sosodoro Djatikoesoemo","3522",NULL,
+"130"," ","Rumah Sakit Umum dr. H. Koesnadi Bondowoso","3511",NULL,
+"131","C","Rumah Sakit Umum Daerah dr. Darsono Pacitan","3501",NULL,"Jl. Jen A Yani No.51 Pacitan"
+"132"," ","RS PTPN XI Situbondo","3512",NULL,"Jl. WR Supratman 2A Situbondo"
+"133"," ","RS Petrokimia Gresik","3525",NULL,"Jl. Jend Ahmad Yani 69 Gresik"
+"134","4","RS Rem 081 Kediri","3571",NULL,"Jl. Mayjen Sungkono 44 Kediri"
+"135","3","RS Bhayangkara Kediri","3571",NULL,"Jl. Kombes Pol Daryat 17 Kediri"
+"136","3","Rumah Sakit Angkatan Udara dr. Efram Harsana Lanud Iswahjudi","3520",NULL,"Lanud Iswahyudi Magetan"
+"137"," ","Rumah Sakit Umum Daerah Ibnu Sina Kabupaten Gresik","3525",NULL,
+"138"," ","Rumah Sakit Tk. III Baladhika Husada","3509",NULL,
+"139"," ","Rumah Sakit Bina Sehat","3509",NULL,
+"140"," ","Rumah Sakit Citra Husada","3509",NULL,
+"141"," ","Rumah Sakit Paru Jember","3509",NULL,
+"142"," ","Rumah Sakit Jember Klinik","3509",NULL,
+"143"," ","Rumah Sakit Umum Daerah Kabupaten Kediri","3571",NULL,
+"144"," ","Rumah Sakit Muhammadiyah Ahmad Dahlan","3571",NULL,
+"145"," ","Rumah Sakit Umum Daerah Dr. Haryoto Lumajang","3508",NULL,
+"146"," ","Rumah Sakit Umum Daerah Caruban","3577",NULL,
+"147"," ","Rumah Sakit Umum Daerah dr. Sayidiman Magetan","3520",NULL,
+"148"," ","Rumah Sakit Islam Jemursari Surabaya","3578",NULL,
+"149"," ","Rumah Sakit Siloam Surabaya","3578",NULL,
+"150"," ","Rumah Sakit Manyar Medical Centre","3578",NULL,
+"151"," ","Rumah Sakit Premier Surabaya","3578",NULL,
+"152"," ","Rumah Sakit Royal Surabaya","3578",NULL,
+"153"," ","Rumah Sakit Bhayangkara Tk. II H.S. Samsoeri Mertojoso","3578",NULL,
+"154"," ","Rumah Sakit Universitas Airlangga","3578",NULL,
+"155"," ","Rumah Sakit National Hospital","3578",NULL,
+"156"," ","Rumah Sakit Tk. III Brawijaya","3578",NULL,
+"157"," ","Rumah Sakit Umum Daerah Dr. Mohammad Soewandhie Surabaya","3578",NULL,
+"158"," ","Rumah Sakit Umum Daerah Dr. H. Moh. Anwar","3529",NULL,
+"159"," ","Rumah Sakit Mitra Keluarga Waru","3515",NULL,
+"160"," ","Rumah Sakit Umum Anwar Medika","3515",NULL,
+"161"," ","Rumah Sakit Umum Daerah Tongas","3513",NULL,
+"162"," ","Rumah Sakit Umum Daerah Dr. Mohamad Saleh","3574",NULL,
+"163"," ","Rumah Sakit Umum Daerah Dr. R. Soedarsono","3575",NULL,
+"164"," ","Rumah Sakit Umum Daerah Dr. H. Slamet Martodirdjo","3528",NULL,
+"165"," ","Rumah Sakit Umum Mohammad Noer Pamekasan","3528",NULL,
+"166"," ","Rumah Sakit Umum Daerah Prof. Dr. Soekandar","3576",NULL,
+"167"," ","Rumah Sakit Lavalette","3573",NULL,
+"168"," ","Rumah Sakit Umum Daerah Kanjuruhan Kabupaten Malang","3573",NULL,
+"169"," ","Rumah Sakit Umum Wava Husada","3573",NULL,
+"170"," ","Rumah Sakit Prima Husada Malang","3573",NULL,
+"171"," ","Rumah Sakit Universitas Airlangga","3578",NULL,
+"172"," ","RSUD Kanjuruhan Malang","3573",NULL,

@@ -1,0 +1,10 @@
+"id","nama","email","password","peran","remember_token","created_at","updated_at","deleted_at"
+"2","Agus B Raharjo","agus.budi@its.ac.id","1","Tim Tracing",NULL,NULL,NULL,NULL
+"3","Umi Laili Yuhana","yuhana@its.ac.id","$2y$10$gKFt.Qt0yjWJJ0jFLeBB.u3nQZqo6Iqb8X3VKX4zJ7E8ForXikbK2","Tim Tracing",NULL,NULL,NULL,NULL
+"5","Adjie Pamungkas","adjieku@gmail.com","$2y$10$1YXDT1motDhvrtxyVMsu5.x8nguQ87Ne8S6ajmZLaHmzPufEVbsVS","Tim Tracing",NULL,NULL,NULL,NULL
+"6","Irhamah","irhamah@its.ac.id","1","Tim Tracing",NULL,NULL,NULL,NULL
+"7","Welly Herumurti","welly@its.ac.id","1","Tim Tracing",NULL,NULL,NULL,NULL
+"8","Sri Fatmawati","fatma@its.ac.id","1","Tim Tracing",NULL,NULL,NULL,NULL
+"9","Dr Bhayu","bahyu@its.ac.id","1","Tim Tracing",NULL,NULL,NULL,NULL
+"10","Dr. Feryna","feryna@its.ac.id","1","Tim Tracing",NULL,NULL,NULL,NULL
+"11","Bambang Pramujati","BPramujati@its.ac.id","$2y$10$jSq3Br2jrl9szFqbQ2AiE.i83PjIjgYTUwdilWiQYBAZnauyFFtQG","Tim Tracing",NULL,NULL,NULL,NULL
